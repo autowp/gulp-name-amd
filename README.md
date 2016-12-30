@@ -4,7 +4,7 @@ give AMD module a module name if none
 
 ## Install
 ```
-$ npm install --save-dev gulp-nam-amd
+$ npm install --save-dev gulp-name-amd
 ```
 ## Usage
 ##### AMD module
